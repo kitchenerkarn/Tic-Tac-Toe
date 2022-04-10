@@ -79,14 +79,14 @@ button:active{
     color: rgb(115, 142, 168);
     cursor: not-allowed;
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 10rem;
+    font-size: 100px;
 }
 
 .O{
     color: rgb(243, 97, 97);
     cursor: not-allowed;
     font-family: 'Nanum Pen Script', cursive;
-    font-size: 10rem;
+    font-size: 100px;
 }
 
 .winner{
