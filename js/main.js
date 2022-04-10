@@ -16,7 +16,6 @@ tiles.forEach((tile) => {
     tile.addEventListener('click', () => {
         game.makeMove(tile.dataset.index)
         gameView.update(game)
-        
     })
 })
 
