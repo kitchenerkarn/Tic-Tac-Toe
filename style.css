@@ -76,14 +76,14 @@ button:active{
 }
 
 .X{
-    color: lightslategray;
+    color: rgb(115, 142, 168);
     cursor: not-allowed;
     font-family: 'Nanum Pen Script', cursive;
     font-size: 10rem;
 }
 
 .O{
-    color: lightcoral;
+    color: rgb(243, 97, 97);
     cursor: not-allowed;
     font-family: 'Nanum Pen Script', cursive;
     font-size: 10rem;
